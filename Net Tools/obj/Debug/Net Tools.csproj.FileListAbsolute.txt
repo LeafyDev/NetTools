@@ -1,0 +1,9 @@
+C:\Users\William Haskell\Documents\Progs\Git\Net Tools\Net Tools\bin\Debug\Net Tools.exe.config
+C:\Users\William Haskell\Documents\Progs\Git\Net Tools\Net Tools\bin\Debug\Net Tools.exe
+C:\Users\William Haskell\Documents\Progs\Git\Net Tools\Net Tools\bin\Debug\Net Tools.pdb
+C:\Users\William Haskell\Documents\Progs\Git\Net Tools\Net Tools\obj\Debug\Net Tools.csprojResolveAssemblyReference.cache
+C:\Users\William Haskell\Documents\Progs\Git\Net Tools\Net Tools\obj\Debug\Net_Tools.Form1.resources
+C:\Users\William Haskell\Documents\Progs\Git\Net Tools\Net Tools\obj\Debug\Net_Tools.Properties.Resources.resources
+C:\Users\William Haskell\Documents\Progs\Git\Net Tools\Net Tools\obj\Debug\Net Tools.csproj.GenerateResource.Cache
+C:\Users\William Haskell\Documents\Progs\Git\Net Tools\Net Tools\obj\Debug\Net Tools.exe
+C:\Users\William Haskell\Documents\Progs\Git\Net Tools\Net Tools\obj\Debug\Net Tools.pdb
